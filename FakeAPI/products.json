@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "27e1",
+      "name": "Watch",
+      "price": "199",
+      "category": "accessories",
+      "size": "",
+      "quantity": "5",
+      "image": "https://images.pexels.com/photos/3766111/pexels-photo-3766111.jpeg?cs=srgb&dl=pexels-alexazabache-3766111.jpg&fm=jpg"
+    },
+    {
+      "name": "Carrots",
+      "price": "32",
+      "category": "groceries",
+      "quantity": "12",
+      "size": "",
+      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
+      "id": "d798"
+    },
+    {
+      "id": "4193",
+      "name": "Apples",
+      "price": "99",
+      "category": "groceries",
+      "size": "",
+      "quantity": "23",
+      "image": "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg?cs=srgb&dl=pexels-pixabay-209439.jpg&fm=jpg"
+    },
+    {
+      "id": "2d",
+      "name": "Trousers",
+      "price": "30",
+      "category": "clothes",
+      "size": "M",
+      "quantity": "15",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230214/4OjX/63eb9f40f997dde6f4a4ca91/-473Wx593H-441148024-olive-MODEL.jpg"
+    },
+    {
+      "id": "de31",
+      "name": "Tomatoes",
+      "price": "30",
+      "category": "groceries",
+      "quantity": "50",
+      "size": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg"
+    },
+    {
+      "id": "b495",
+      "name": "Honey",
+      "price": "599",
+      "category": "groceries",
+      "quantity": "10",
+      "size": "",
+      "image": "https://cdn.pixabay.com/photo/2017/01/06/17/49/honey-1958464_640.jpg"
+    },
+    {
+      "id": "6387",
+      "name": "Kurti",
+      "price": "785",
+      "category": "clothes",
+      "quantity": "39",
+      "size": "S",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3ZR6VFaEqJlqzX_vvFAHx1p5nlZ1pg3yFw&s"
+    },
+    {
+      "id": "1862",
+      "name": "Scarf",
+      "price": "484",
+      "category": "clothes",
+      "quantity": "78",
+      "size": "XS",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/scarf/u/f/f/m-women-square-scarf-silk-feeling-head-scarf-for-women-print-original-imagsbwazk3dj2bz.jpeg?q=20&crop=false"
+    },
+    {
+      "id": "503a",
+      "name": "Shirt",
+      "price": "353",
+      "category": "clothes",
+      "quantity": "45",
+      "size": "S",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/z/g/d/xl-st2-vebnor-original-imagpw72vhqfczsp.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "92e2",
+      "name": "Saree",
+      "price": "1799",
+      "category": "clothes",
+      "quantity": "89",
+      "size": "M",
+      "image": "https://cdn0.weddingwire.in/article/7671/3_2/1280/jpg/51767-lead-2-silk-saree-images-vivek-krishnan-photography-insta.jpeg"
+    },
+    {
+      "id": "d92c",
+      "name": "Bracelet",
+      "price": "169",
+      "category": "accessories",
+      "quantity": "90",
+      "size": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwv-XbtnL7TRYV-odywc9GJv5uTDoWE_MgbA&s"
+    },
+    {
+      "id": "38e0",
+      "name": "Ring",
+      "price": "567",
+      "category": "accessories",
+      "quantity": "70",
+      "size": "",
+      "image": "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/158/1673962109_d237e9feb935a9f44303.jpg"
+    }
+  ]
+}
